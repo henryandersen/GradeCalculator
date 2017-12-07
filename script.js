@@ -45,6 +45,7 @@ function findGrade(){
     totalGrade = Math.round(totalGrade * 100)/ 100;
     document.getElementById("Grade1").innerHTML = "Current Grade: " + totalGrade
 }
+//
 function color(x,y){
     if(y > 89){
         x.style.backgroundColor= "green";
