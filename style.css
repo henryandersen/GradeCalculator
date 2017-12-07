@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 25px;
+
+}
+#x{
+    padding: 25px;
+}
+#grade{
+    font-size: large;
+}
+#Homework Grades{
+    font-size: xx-large;
+}
+button{
+    border-color: red;
+    background-color: transparent;
+    font-size: 25px;
+}
+table{
+    position: relative;
+    margin: auto;
+    color: black;
+    font-size: 25px;
+
+}
+#j{
+    font-size: 16px;
+}
+input {
+    font-size: 25px;
+}
+#A{
+    background-color: green;
+}
+#B{
+    background-color: yellow;
+}
+#C{
+    background-color: orange;
+}
+#D{
+    background-color: red;
+}
+#F{
+    background-color: white;
+}
