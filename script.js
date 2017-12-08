@@ -61,6 +61,7 @@ function color(x,y){
         x.style.backgroundColor= "white";
     }
 }
+//
 function gradeNeeded() {
     if(isNaN(document.getElementById("Final Weight").value) === true){
         document.getElementById("finalGrade").innerHTML = "Must be all numbers";
